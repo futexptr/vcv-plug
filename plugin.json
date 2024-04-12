@@ -1,0 +1,22 @@
+{
+  "slug": "Futex",
+  "version": "2.0.0",
+  "license": "GPL-3.0-only",
+  "name": "Futex",
+  "brand": "Futex",
+  "author": "Futex",
+  "authorEmail": "futexparhelion@gmail.com",
+  "pluginUrl": "https://github.com/futexptr/vcv-plug",
+  "authorUrl": "",
+  "manualUrl": "https://github.com/futexptr/vcv-plug",
+  "sourceUrl": "https://github.com/futexptr/vcv-plug",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Futex-Plug",
+      "name": "Plug",
+      "description": "Control sex toys using CV, via Intiface Central",
+      "tags": ["External"]
+    }
+  ]
+}
