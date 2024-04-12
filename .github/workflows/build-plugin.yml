@@ -131,3 +131,6 @@ jobs:
           file: _artifacts/**/*.vcvplugin
           tag: ${{ github.ref }}
           file_glob: true
+
+permissions:
+  contents: write
